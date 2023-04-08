@@ -1,0 +1,31 @@
+
+h1 {
+    color: rgb(0, 238, 255);
+  }
+h2 {
+   color: #070bff
+}
+.welcome{
+    color: orange;
+    font-size: 100;
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px green;
+    text-decoration: underline;
+    text-align: center;
+}
+.qwer{
+    color: #070bff;
+    display: block;
+    background: yellow;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;
+    /* opacity: 0.7; */
+    background-image: linear-gradient(to right, red , blue , yellow)
+} 
+div {
+    background-image: url("https://images.unsplash.com/photo-1493397212122-2b85dda8106b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80")
+    
+}
